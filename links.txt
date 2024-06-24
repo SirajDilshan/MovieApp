@@ -1,7 +1,7 @@
 c681386d8219aec33c4e5851223421e2
 BaseURL : https://api.themoviedb.org/3
 
-individual : https://api.themoviedb.org/3/movie/?api_key=c681386d8219aec33c4e5851223421e2
+individual : https://api.themoviedb.org/3/movie/{movie_id}?api_key=c681386d8219aec33c4e5851223421e2
 
 Now Playing : https://api.themoviedb.org/3/movie/now_playing?api_key=c681386d8219aec33c4e5851223421e2
 
